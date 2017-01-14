@@ -1,0 +1,10 @@
+name: DispenserFill
+main: net.xornick.dispenserfill.DispenserFill
+version: 1.0
+author: XorNick
+commands:
+  fill:
+    description: Fill nearby dispensers with the item in your hand.
+permissions:
+  dispenserfill.fill:
+    description: Use /fill.
